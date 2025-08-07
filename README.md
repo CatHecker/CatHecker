@@ -1,6 +1,6 @@
 ## Heeey! 👾
 
-My name is Emil! I'm backend junior developer from Ufa. At the moment I am a student of KPFU 
+My name is Emil! I'm backend/frontend junior developer in Kazan, Russia. At the moment I am a student of KPFU 
 <!--
 **CatHecker/CatHecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
