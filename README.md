@@ -33,7 +33,7 @@
 
 ## Статистика LeetCode
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/CatHecker)  
+![Leetcode Stats](https://leetcard.jacoblin.cool/ChudoKot)  
 
 ---
 
